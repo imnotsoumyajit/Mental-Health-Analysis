@@ -1,4 +1,5 @@
-# Mental Health Analysis System
+
+<h1 align="center">Mental Health Analysis System</h1>
 
 ![alt text](https://github.com/Avirupsett/Mental-Health-Analysis/blob/master/Data%20flow%20diagram_%20Level%202.png)
 
